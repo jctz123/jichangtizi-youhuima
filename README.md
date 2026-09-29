@@ -6,37 +6,37 @@
 
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 一枝红杏机场 | 11meigui | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](#) |
-| CyberGuard | SEP200T | 2026年9月30日 | 200G不限时流量 75折	 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
-| CyberGuard | SEP2026T | 2026年9月30日 |  年付| 稳定机场 8折 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
-| CyberGuard | 09CGSEPT | 2026年9月30日 | 月付/季付/半年付：全场 9 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
-| CyberGuard | 11meigui | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
-| CyberGuard | clashx.cc | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
-| BigME.Pro大米机场 | clashx.cc | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://go2lk.pages.dev/kfhpxe) |
-| BigME.Pro大米机场 | happy90% | 长期有效 | 全场9折 | 10元或者以上的月费/年费可以用 | [点击直达官网](https://go2lk.pages.dev/kfhpxe) |
-| 肥猫云 | clashx.cc | 长期有效 | 9折 | 月/季/半年付（年付加强版除外） | [官网直达链接](https://go2lk.pages.dev/um2wxw) |
-| 咕嘎云机场 | clashx.cc | 长期有效 | 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
-| 咕嘎云机场 | NYN9Z | 长期有效 | 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
-| 雪橇云机场 | 11meigui | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/s9u7kg) |
-| 红杏云机场 | clashx.cc | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次 | [点击直达官网](https://go2lk.pages.dev/xmjwtx) |
-| 精靈學院机场 | New2025 | 长期有效 | 九五折优惠 | 季付 半年付 年付可用（不限时套餐不适用） | [点击直达官网](#) |
-| 奈云机场 | 11meigui | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://go2lk.pages.dev/5ww7z6) |
-| 乌龟加速机场 | clashx.cc | 长期有效 | 5折 | 首次购买 | [点击直达官网](https://go2lk.pages.dev/nbghrj) |
-| 疾风云机场 | clashx.cc | 长期有效 | 7折优惠 | 年费7.0折优惠 | [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](#) |
+| CyberGuard | `SEP200T` | 2026年9月30日 | 200G不限时流量 75折	 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
+| CyberGuard | `SEP2026T` | 2026年9月30日 |  年付| 稳定机场 8折 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
+| CyberGuard | `09CGSEPT` | 2026年9月30日 | 月付/季付/半年付：全场 9 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
+| CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
+| CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
+| BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://go2lk.pages.dev/kfhpxe) |
+| BigME.Pro大米机场 | `happy90%` | 长期有效 | 全场9折 | 10元或者以上的月费/年费可以用 | [点击直达官网](https://go2lk.pages.dev/kfhpxe) |
+| 肥猫云 | `clashx.cc` | 长期有效 | 9折 | 月/季/半年付（年付加强版除外） | [官网直达链接](https://go2lk.pages.dev/um2wxw) |
+| 咕嘎云机场 | `clashx.cc` | 长期有效 | 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
+| 咕嘎云机场 | `NYN9Z` | 长期有效 | 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
+| 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/s9u7kg) |
+| 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次 | [点击直达官网](https://go2lk.pages.dev/xmjwtx) |
+| 精靈學院机场 | `New2025` | 长期有效 | 九五折优惠 | 季付 半年付 年付可用（不限时套餐不适用） | [点击直达官网](#) |
+| 咕嘎云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://go2lk.pages.dev/5ww7z6) |
+| 乌龟加速机场 | `clashx.cc` | 长期有效 | 5折 | 首次购买 | [点击直达官网](https://go2lk.pages.dev/nbghrj) |
+| 疾风云机场 | `clashx.cc` | 长期有效 | 7折优惠 | 年费7折优惠 | [点击直达官网](https://go2lk.pages.dev/cwewxe) |
 | 扬帆云 | clashx.cc | 长期有效 | 7折 | 年费7.0折优惠 | [点击直达官网](https://go2lk.pages.dev/cpg4r7) |
-| 蓝帆云机场 | lanfan | 长期有效 | 7折优惠 | 年付套餐 | [点击直达官网](https://go2lk.pages.dev/6t7yf3) |
+| 蓝帆云机场 | `lanfan` | 长期有效 | 7折优惠 | 年付套餐 | [点击直达官网](https://go2lk.pages.dev/6t7yf3) |
 | WgetCloud机场 | 无需优惠码 | 长期有效 | 85折体验 | 新用户 | [点击直达官网](https://go2lk.pages.dev/p6d3uc) |
-| 疾风云机场 | JF1111 | 2026年12月31号 | 7折优惠 | 年费7.0折优惠 | [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 疾风云机场 | JF888 | 2026年12月31号 | 9折优惠 | 半年9折优惠 | [点击直达官网](https://go2lk.pages.dev/cwewxe) |
-| 扬帆云 | 618 | 长期有效 | 7折 | 年付7折 | [点击直达官网](https://go2lk.pages.dev/cpg4r7) |
-| 红杏云机场 | hx2026 | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://go2lk.pages.dev/xmjwtx) |
-| 糖果云机场 | clashx.cc | 长期有效 | 全场7折 | 可用两次 | [点击直达官网](https://go2lk.pages.dev/srba8y) |
-| 糖果云机场 | candy2026 | 长期有效 | 全场8.8折 | 首次购买限用一次 | [点击直达官网](https://go2lk.pages.dev/srba8y) |
+| 疾风云机场 | `JF1111` | 2026年12月31号 | 7折优惠 | 年费7.0折优惠 | [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 疾风云机场 | `JF888` | 2026年12月31号 | 9折优惠 | 半年9折优惠 | [点击直达官网](https://go2lk.pages.dev/cwewxe) |
+| 扬帆云 | `618` | 长期有效 | 7折 | 年付7折 | [点击直达官网](https://go2lk.pages.dev/cpg4r7) |
+| 红杏云机场 | `hx2026` | 长期有效 | 全场8.8折 | 新用户专享首单8.8折优惠码 | [点击直达官网](https://go2lk.pages.dev/xmjwtx) |
+| 糖果云机场 | `clashx.cc` | 长期有效 | 全场7折 | 可用两次 | [点击直达官网](https://go2lk.pages.dev/srba8y) |
+| 糖果云机场 | `candy2026` | 长期有效 | 全场8.8折 | 首次购买限用一次 | [点击直达官网](https://go2lk.pages.dev/srba8y) |
 | 闪电猫机场 | 无需优惠码 | 长期有效 | 年付8折 | 年付8折优惠 | [点击直达官网](https://go2lk.pages.dev/6p9tjh) |
-| 唯兔云专线机场 | rabbit | 长期有效 | 9折 | 新人首次9折，79年付包除外 | [点击直达官网](https://go2lk.pages.dev/hbep8f) |
-| U1S1专线机场 | U1S1 | 长期有效 | 85折 | 新人特惠85折（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
-| 尔湾云机场 | ss12 | 长期有效 | 7折 | VPN年费7折限时抢 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
-| TNTCloud | TNT85 | 长期有效 | 85折 | 新人特惠85折（限量包不适用） | [点击直达官网](https://go2lk.pages.dev/rhb265) |
+| 唯兔云专线机场 | `rabbit` | 长期有效 | 9折 | 新人首次9折，79年付包除外 | [点击直达官网](https://go2lk.pages.dev/hbep8f) |
+| U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
+| 尔湾云机场 | `ss12` | 长期有效 | 7折 | VPN年费7折限时抢 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
+| TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折（限量包不适用） | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 
 ### 🎯 如何使用机场优惠码?
 
