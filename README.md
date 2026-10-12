@@ -7,9 +7,6 @@
 | 服务商 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](#) |
-| CyberGuard | `SEP200T` | 2026年9月30日 | 200G不限时流量 75折	 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
-| CyberGuard | `SEP2026T` | 2026年9月30日 |  年付| 稳定机场 8折 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
-| CyberGuard | `09CGSEPT` | 2026年9月30日 | 月付/季付/半年付：全场 9 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
 | CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
 | CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://go2lk.pages.dev/kfhpxe) |
