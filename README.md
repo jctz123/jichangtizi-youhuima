@@ -17,7 +17,6 @@
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/s9u7kg) |
 | 红杏云机场 | `clashx.cc` | 长期有效 | 全场8折 | 全场8折，新老客户都适用，可以使用2次 | [点击直达官网](https://go2lk.pages.dev/xmjwtx) |
 | 精靈學院机场 | `New2025` | 长期有效 | 九五折优惠 | 季付 半年付 年付可用（不限时套餐不适用） | [点击直达官网](#) |
-| 咕嘎云机场 | `11meigui` | 长期有效 | 全场8折 | 可重复使用 5 次 | [点击直达官网](https://go2lk.pages.dev/5ww7z6) |
 | 乌龟加速机场 | `clashx.cc` | 长期有效 | 5折 | 首次购买 | [点击直达官网](https://go2lk.pages.dev/nbghrj) |
 | 疾风云机场 | `clashx.cc` | 长期有效 | 7折优惠 | 年费7折优惠 | [点击直达官网](https://go2lk.pages.dev/cwewxe) |
 | 扬帆云 | clashx.cc | 长期有效 | 7折 | 年费7.0折优惠 | [点击直达官网](https://go2lk.pages.dev/cpg4r7) |
