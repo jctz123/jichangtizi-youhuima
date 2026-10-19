@@ -33,7 +33,6 @@
 | 唯兔云专线机场 | `rabbit` | 长期有效 | 9折 | 新人首次9折，79年付包除外 | [点击直达官网](https://go2lk.pages.dev/hbep8f) |
 | U1S1专线机场 | `U1S1` | 长期有效 | 85折 | 新人特惠85折（96年包不适用） | [点击直达官网](https://go2lk.pages.dev/h8aqzv) |
 | 尔湾云机场 | `ss12` | 长期有效 | 7折 | VPN年费7折限时抢 | [点击直达官网](https://go2lk.pages.dev/6pj3nw) |
-| TNTCloud | `TNT85` | 长期有效 | 85折 | 新人特惠85折（限量包不适用） | [点击直达官网](https://go2lk.pages.dev/rhb265) |
 
 ### 💡 10月最新试用机场汇总
 
