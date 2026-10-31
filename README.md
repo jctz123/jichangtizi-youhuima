@@ -65,7 +65,7 @@
 
 1. 在机场官网注册账户
 2. 登陆机场进入机场官网
-3. 进入「购买订阅」页面，选择想要的订阅时长，如下图
+3. 进入「购买订阅」页面，选择想要的订阅时长，如下图  
    
 <img width="2508" height="1052" alt="订阅时长" src="https://github.com/user-attachments/assets/eed5e4b5-ba34-4b6e-b38b-17a365312ef9" />
 
