@@ -65,11 +65,11 @@
 
 1. 在机场官网注册账户
 2. 登陆机场进入机场官网
-3. 进入「购买订阅」页面，选择想要的订阅时长，如下图  
+3. 进入「购买订阅」页面，选择想要的订阅时长
    
 <img width="2508" height="1052" alt="订阅时长" src="https://github.com/user-attachments/assets/eed5e4b5-ba34-4b6e-b38b-17a365312ef9" />
 
-4. 在结算页面一般都有一个优惠码输入框，在输入框中输入优惠码，点击验证，即可看到优惠的金额，如下图
+4. 在结算页面一般都有一个优惠码输入框，在输入框中输入优惠码，点击验证，即可看到优惠的金额
 
 <img width="2022" height="1086" alt="优惠码输入框" src="https://github.com/user-attachments/assets/fa79bb43-2311-4343-9a6d-399bb1ea10a5" />
 
