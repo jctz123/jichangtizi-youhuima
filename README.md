@@ -31,6 +31,7 @@
 | 肥猫云 | `clashx.cc` | 长期有效 | 9折 | 月/季/半年付（年付加强版除外） | [官网直达链接](https://go2lk.pages.dev/um2wxw) |
 | 咕嘎云机场 | `2026D0UBLE11` | 2026年11月16日 | 7折 | 双十一活动，所有非Basic套餐享7折| [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 咕嘎云机场 | `2026D0UBLE11BASIC` | 2026年11月16日 | 8折 | 双十一活动，Basic基础套餐享8折 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
+| 红杏云机场 | `红杏云全新升级2027` | 2026年12月10日 | 全场8.8折 | 全场通用 | [点击直达官网](https://go2lk.pages.dev/xmjwtx) |
 | 咕嘎云机场 | `clashx.cc` | 长期有效 | 全场8折 | 优惠码活动 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 咕嘎云机场 | `NYN9Z` | 长期有效 | 全场9折 | 新用户9折码 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 雪橇云机场 | `11meigui` | 长期有效 | 全场85 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/s9u7kg) |
