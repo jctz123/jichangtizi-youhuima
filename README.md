@@ -29,6 +29,7 @@
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://go2lk.pages.dev/kfhpxe) |
 | BigME.Pro大米机场 | `happy90%` | 长期有效 | 全场9折 | 10元或者以上的月费/年费可以用 | [点击直达官网](https://go2lk.pages.dev/kfhpxe) |
 | 肥猫云 | `clashx.cc` | 长期有效 | 9折 | 月/季/半年付（年付加强版除外） | [官网直达链接](https://go2lk.pages.dev/um2wxw) |
+| 赔钱机场 | `1111` | 2026年11月15日 | 7折体验 | 双十一优惠活动 | [点击直达官网](https://go2lk.pages.dev/53mwny) |
 | 咕嘎云机场 | `2026D0UBLE11` | 2026年11月16日 | 7折 | 双十一活动，所有非Basic套餐享7折| [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 咕嘎云机场 | `2026D0UBLE11BASIC` | 2026年11月16日 | 8折 | 双十一活动，Basic基础套餐享8折 | [点击直达官网](https://go2lk.pages.dev/dq27tj) |
 | 红杏云机场 | `红杏云全新升级2027` | 2026年12月10日 | 全场8.8折 | 全场通用 | [点击直达官网](https://go2lk.pages.dev/xmjwtx) |
