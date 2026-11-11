@@ -23,9 +23,10 @@
 
 | 机场名称 | 优惠码 | 活动时间 | 优惠内容 | 备注 | 官网链接 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 一枝红杏机场 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](#) |
-| CyberGuard | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
-| CyberGuard | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
+| 一枝红杏加速器 | `-` | 长期有效 | 2026年11月13日 | 一年只一次：一年期7折/二年期6.5折/三年期6折 | [点击直达官网](https://go2lk.pages.dev/cuakh4) |
+| 一枝红杏加速器 | `11meigui` | 长期有效 | 全场 9折 | 老牌机场，服务时长超过11年+ | [点击直达官网](https://go2lk.pages.dev/cuakh4) |
+| CyberGuard机场 | `11meigui` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
+| CyberGuard机场 | `clashx.cc` | 长期有效 | 全场75 折 | 稳定机场 | [点击直达官网](https://go2lk.pages.dev/a64sw2) |
 | BigME.Pro大米机场 | `clashx.cc` | 长期有效 | 全场9折 | 全场9折，新老客户都适用 | [点击直达官网](https://go2lk.pages.dev/kfhpxe) |
 | BigME.Pro大米机场 | `happy90%` | 长期有效 | 全场9折 | 10元或者以上的月费/年费可以用 | [点击直达官网](https://go2lk.pages.dev/kfhpxe) |
 | 肥猫云 | `clashx.cc` | 长期有效 | 9折 | 月/季/半年付（年付加强版除外） | [官网直达链接](https://go2lk.pages.dev/um2wxw) |
